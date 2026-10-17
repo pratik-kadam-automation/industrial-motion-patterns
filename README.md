@@ -1,5 +1,5 @@
 # industrial-motion-patterns
-
+![simulate-homing](https://github.com/pratik-kadam-automation/industrial-motion-patterns/actions/workflows/simulate.yml/badge.svg)
 Small, hardware-free examples of motion-control and operator-panel patterns from real machine-building work. Each pattern comes with something you can **run** to see the effect, not just a write-up.
 
 | Pattern | What it shows | Run it |
